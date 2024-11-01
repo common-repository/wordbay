@@ -1,0 +1,250 @@
+Any Country/Region||||0||-15||
+United States|US|0|711-53200-19255-0|1|0|0|http://listings.ebay.com/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Canada (English)|CA|2|706-53473-19255-0|1|0|x|http://listings.ebay.ca/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Canada (French)|CA|210|706-53473-19255-0|1|0|x|http://listings.cafr.ebay.ca/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Canada|CA|||0||2||
+United Kingdom|UK|3|710-53481-19255-0|1|0|3|http://listings.ebay.co.uk/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Australia|AU|15|705-53470-19255-0|1|0|15|http://listings.ebay.com.au/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Belgium (French)|BE|23|1553-53471-19255-0|1|0|x|http://listings.befr.ebay.be/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Belgium (Dutch)|BE|123|1553-53471-19255-0|1|0|x|http://listings.benl.ebay.be/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Belgium|BE|||0||23||
+India|IN|203|4686-53472-19255-0|1|0|95|http://listings.ebay.in/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+France|FR|71|709-53476-19255-0|1|0|71|http://listings.ebay.fr/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Italy|IT|101|724-53478-19255-0|1|0|101|http://listings.ebay.it/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Spain|ES|186|1185-53479-19255-0|1|0|186|http://listings.ebay.es/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Netherlands|NL|146|1346-53482-19255-0|1|0|146|http://listings.ebay.nl/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+eBay Motors||100||1|0|x|http://motors.listings.ebay.com/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Singapore|SG|216|3423-53474-19255-0|1|1|180|http://listings.ebay.com.sg/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Hong Kong|HK|201|3422-53475-19255-0|1|1|92|http://listings.ebay.com.hk/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Germany|DE|77|707-53477-19255-0|1|1|77|http://listings.ebay.de/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+China|CN|223|4080-53484-19255-0|1|1|45|http://ebay.cn|
+Austria|AT|16|5221-53469-19255-0|1|1|16|http://listings.ebay.at/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Switzerland|CH|193|5222-53480-19255-0|1|1|193|http://listings.ebay.ch/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Ireland|IE|205|5282-53468-19255-0|1|1|99|http://listings.ebay.ie/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Malaysia|MY|207||1|1|127|http://listings.ebay.com.my/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Philippines|PH|211||1|1|162|http://listings.ebay.ph/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Poland|PL|212||1|1|163|http://listings.ebay.pl/_W0QQfclZ3QQloctZShowCatIdsQQsacatZQ2d1QQsalocationZlisQQsocmdZListingCategoryList|
+Sweden|SE|218||1|1|192|http://www.tradera.com/category/category_1.aspx|
+Taiwan|TW|196||1|1|196|http://twexport.ebay.com|
+Afghanistan||||0||4|
+Albania||||0||5|
+Algeria||||0||6|
+American Samoa||||0||7|
+Andorra||||0||8|
+Angola||||0||9|
+Anguilla||||0||10|
+Antigua and Barbuda||||0||11|
+APO/FPO||||0||225|
+Argentina||||0||12|
+Armenia||||0||13|
+Aruba||||0||14|
+Australia||||0||15|
+Austria||||0||16|
+Azerbaijan Republic||||0||17|
+Bahamas||||0||18|
+Bahrain||||0||19|
+Bangladesh||||0||20|
+Barbados||||0||21|
+Belarus||||0||22|
+Belgium||||0||23|
+Belize||||0||24|
+Benin||||0||25|
+Bermuda||||0||26|
+Bhutan||||0||27|
+Bolivia||||0||28|
+Bosnia and Herzegovina||||0||29|
+Botswana||||0||30|
+Brazil||||0||31|
+British Virgin Islands||||0||32|
+Brunei Darussalam||||0||33|
+Bulgaria||||0||34|
+Burkina Faso||||0||35|
+Burma||||0||36|
+Burundi||||0||37|
+Cambodia||||0||38|
+Cameroon||||0||39|
+Canada||||0||2|
+Cape Verde Islands||||0||40|
+Cayman Islands||||0||41|
+Central African Republic||||0||42|
+Chad||||0||43|
+Chile||||0||44|
+China||||0||45|
+Colombia||||0||46|
+Comoros||||0||47|
+Congo, Democratic Republic of the||||0||48|
+Congo, Republic of the||||0||49|
+Cook Islands||||0||50|
+Costa Rica||||0||51|
+Cote d Ivoire (Ivory Coast)||||0||52|
+Croatia, Republic of||||0||53|
+Cyprus||||0||55|
+Czech Republic||||0||56|
+Denmark||||0||57|
+Djibouti||||0||58|
+Dominica||||0||59|
+Dominican Republic||||0||60|
+Ecuador||||0||61|
+Egypt||||0||62|
+El Salvador||||0||63|
+Equatorial Guinea||||0||64|
+Eritrea||||0||65|
+Estonia||||0||66|
+Ethiopia||||0||67|
+Falkland Islands (Islas Malvinas)||||0||68|
+Fiji||||0||69|
+Finland||||0||70|
+France||||0||71|
+French Guiana||||0||72|
+French Polynesia||||0||73|
+Gabon Republic||||0||74|
+Gambia||||0||75|
+Georgia||||0||76|
+Germany||||0||77|
+Ghana||||0||78|
+Gibraltar||||0||79|
+Greece||||0||80|
+Greenland||||0||81|
+Grenada||||0||82|
+Guadeloupe||||0||83|
+Guam||||0||84|
+Guatemala||||0||85|
+Guernsey||||0||86|
+Guinea||||0||87|
+Guinea-Bissau||||0||88|
+Guyana||||0||89|
+Haiti||||0||90|
+Honduras||||0||91|
+Hong Kong||||0||92|
+Hungary||||0||93|
+Iceland||||0||94|
+India||||0||95|
+Indonesia||||0||96|
+Iran||||0||97|
+Ireland||||0||99|
+Israel||||0||100|
+Italy||||0||101|
+Jamaica||||0||102|
+Jan Mayen||||0||103|
+Japan||||0||104|
+Jersey||||0||105|
+Jordan||||0||106|
+Kazakhstan||||0||107|
+Kenya||||0||108|
+Kiribati||||0||109|
+Korea, South||||0||111|
+Kuwait||||0||112|
+Kyrgyzstan||||0||113|
+Laos||||0||114|
+Latvia||||0||115|
+Lebanon||||0||116|
+Liechtenstein||||0||120|
+Lithuania||||0||121|
+Luxembourg||||0||122|
+Macau||||0||123|
+Macedonia||||0||124|
+Madagascar||||0||125|
+Malawi||||0||126|
+Malaysia||||0||127|
+Maldives||||0||128|
+Mali||||0||129|
+Malta||||0||130|
+Marshall Islands||||0||131|
+Martinique||||0||132|
+Mauritania||||0||133|
+Mauritius||||0||134|
+Mayotte||||0||135|
+Mexico||||0||136|
+Micronesia||||0||226|
+Moldova||||0||137|
+Monaco||||0||138|
+Mongolia||||0||139|
+Montenegro||||0||228|
+Montserrat||||0||140|
+Morocco||||0||141|
+Mozambique||||0||142|
+Namibia||||0||143|
+Nauru||||0||144|
+Nepal||||0||145|
+Netherlands||||0||146|
+Netherlands Antilles||||0||147|
+New Caledonia||||0||148|
+New Zealand||||0||149|
+Nicaragua||||0||150|
+Niger||||0||151|
+Nigeria||||0||152|
+Niue||||0||153|
+Norway||||0||154|
+Oman||||0||155|
+Pakistan||||0||156|
+Palau||||0||157|
+Panama||||0||158|
+Papua New Guinea||||0||159|
+Paraguay||||0||160|
+Peru||||0||161|
+Philippines||||0||162|
+Poland||||0||163|
+Portugal||||0||164|
+Puerto Rico||||0||165|
+Qatar||||0||166|
+Reunion||||0||227|
+Romania||||0||167|
+Russian Federation||||0||168|
+Rwanda||||0||169|
+Saint Helena||||0||170|
+Saint Kitts-Nevis||||0||171|
+Saint Lucia||||0||172|
+Saint Pierre and Miquelon||||0||173|
+Saint Vincent and the Grenadines||||0||174|
+San Marino||||0||175|
+Saudi Arabia||||0||176|
+Senegal||||0||177|
+Serbia||||0||229|
+Seychelles||||0||178|
+Sierra Leone||||0||179|
+Singapore||||0||180|
+Slovakia||||0||181|
+Slovenia||||0||182|
+Solomon Islands||||0||183|
+Somalia||||0||184|
+South Africa||||0||185|
+Spain||||0||186|
+Sri Lanka||||0||187|
+Suriname||||0||189|
+Svalbard||||0||190|
+Swaziland||||0||191|
+Sweden||||0||192|
+Switzerland||||0||193|
+Syria||||0||194|
+Tahiti||||0||195|
+Taiwan||||0||196|
+Tajikistan||||0||197|
+Tanzania||||0||198|
+Thailand||||0||199|
+Togo||||0||200|
+Tonga||||0||201|
+Trinidad and Tobago||||0||202|
+Tunisia||||0||203|
+Turkey||||0||204|
+Turkmenistan||||0||205|
+Turks and Caicos Islands||||0||206|
+Tuvalu||||0||207|
+Uganda||||0||208|
+Ukraine||||0||209|
+United Arab Emirates||||0||210|
+United Kingdom||||0||3|
+United States||||0||1|
+Uruguay||||0||211|
+Uzbekistan||||0||212|
+Vanuatu||||0||213|
+Vatican City State||||0||214|
+Venezuela||||0||215|
+Vietnam||||0||216|
+Virgin Islands (U.S.)||||0||217|
+Wallis and Futuna||||0||218|
+Western Sahara||||0||219|
+Western Samoa||||0||220|
+Yemen||||0||221|
+Yugoslavia||||0||222|
+Zambia||||0||223|
+Zimbabwe||||0||224|

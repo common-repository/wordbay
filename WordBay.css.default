@@ -1,0 +1,36 @@
+
+/* Classes for whole listings panel*/
+
+#leftpanel 
+{
+
+}
+
+
+/* Classes for individual items - could put rounded corners in or something. You'll want to change these colours for sure */
+
+.firstlocaleitem
+{
+
+padding: 8px 8px 8px 8px;
+margin: 4px 4px 4px 4px;
+background-color: #4f4c47;
+height: 180px;
+}
+
+.firstlocaleitem table
+{
+font-size: 0.9em;
+}
+
+#clickicon
+
+{
+border:none;
+padding-left: 12px;
+}
+
+#WBsearchbox
+{
+/* Format your search box using this CSS ID (this is the enclosing DIV of the search box, I have not added classes to the actual elements like input field etc. It's considered not a good idea to apply CSS to search forms.) */
+}
